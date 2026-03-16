@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+playwright
+beautifulsoup4
+httpx
+python-dotenv
+python-multipart
+playwright-stealth
+sqlalchemy
